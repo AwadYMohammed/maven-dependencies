@@ -1,0 +1,27 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.awad:first-maven-project >--------------------
+[INFO] Building first-maven-project 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:sources (default-cli) @ first-maven-project ---
+Downloading from central: https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar
+[INFO] 
+[INFO] The following files have been resolved:
+[INFO]    dom4j:dom4j:jar:sources:1.6.1:compile
+[INFO]    junit:junit:jar:sources:4.4:test
+[INFO]    org.hibernate:hibernate-core:jar:sources:4.1.4.Final:compile
+[INFO]    org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:sources:1.0.1.Final:compile
+[INFO]    org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:sources:1.0.0.Final:compile
+[INFO]    org.javassist:javassist:jar:sources:3.15.0-GA:compile
+[INFO]    org.hibernate.common:hibernate-commons-annotations:jar:sources:4.0.1.Final:compile
+[INFO] 
+[INFO] The following files have NOT been resolved:
+[INFO]    antlr:antlr:jar:sources:2.7.7:compile
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.759 s
+[INFO] Finished at: 2020-08-23T08:27:08-04:00
+[INFO] ------------------------------------------------------------------------
