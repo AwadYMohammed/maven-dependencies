@@ -1,0 +1,22 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.awad:first-maven-project >--------------------
+[INFO] Building first-maven-project 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ first-maven-project ---
+[INFO] com.awad:first-maven-project:jar:0.0.1-SNAPSHOT
+[INFO] +- junit:junit:jar:4.4:test
+[INFO] \- org.hibernate:hibernate-core:jar:4.1.4.Final:compile
+[INFO]    +- antlr:antlr:jar:2.7.7:compile
+[INFO]    +- org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:1.0.0.Final:compile
+[INFO]    +- dom4j:dom4j:jar:1.6.1:compile
+[INFO]    +- org.hibernate.javax.persistence:hibernate-jpa-2.0-api:jar:1.0.1.Final:compile
+[INFO]    +- org.javassist:javassist:jar:3.15.0-GA:compile
+[INFO]    \- org.hibernate.common:hibernate-commons-annotations:jar:4.0.1.Final:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.545 s
+[INFO] Finished at: 2020-08-23T08:24:38-04:00
+[INFO] ------------------------------------------------------------------------
